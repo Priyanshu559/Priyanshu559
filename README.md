@@ -1,4 +1,3 @@
-![Neon Modern Futuristic Simple Gaming YouTube Banner ](https://github.com/Priyanshu559/Priyanshu559/assets/118284416/ae0491ad-0f1d-40c1-8498-3a0b160b913d)
 
 <h1 align="center">Hi 👋, I'm Priyanshu Raj</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
